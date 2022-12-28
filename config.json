@@ -1,0 +1,40 @@
+{
+  "parser": {
+    "threads": 200,
+    "pages": 10,
+    "timeouts": 30,
+    "proxyless": true,
+    "google": true,
+    "googleapi": true,
+    "googlemobile": false,
+    "ask": false,
+    "bing": false,
+    "yahoo": false,
+    "startpage": false,
+    "myway": false,
+    "tonline": false,
+    "yandex": false,
+    "use_antipub": true,
+    "auto_antipub": false
+  },
+  "vulnscanner": {
+    "threads": 100,
+    "timeouts": 30
+  },
+  "keywords": {
+    "threads": 100,
+    "timeouts": 15,
+    "google": true,
+    "bing": true,
+    "ask": true,
+    "duckduckgo": true,
+    "yahoo": true,
+    "brave": true
+  },
+  "dorkgen": {
+    "limit": 50000,
+    "patterns": [
+      "(sf):(kw) inurl:.(pt) site:.(de)"
+    ]
+  }
+}

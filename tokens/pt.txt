@@ -1,0 +1,6 @@
+php
+asp
+aspx
+php3
+js
+js3

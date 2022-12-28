@@ -1,0 +1,4 @@
+inurl
+intext
+title
+text

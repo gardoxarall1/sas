@@ -1,0 +1,13 @@
+com
+de
+site
+xyz
+net
+org
+company
+tld
+us
+ru
+su
+lt
+it
